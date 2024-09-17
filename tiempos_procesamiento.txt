@@ -1,0 +1,6 @@
+binarizarImagen: 26.0805 ms
+binarizarImagenOpenMP: 6.87956 ms
+rotarImagen: 55.6276 ms
+rotarImagenOpenMP: 20.6884 ms
+rotarImagen: 83.5184 ms
+rotarImagenOpenMP: 37.2178 ms
